@@ -1,0 +1,8 @@
+State Machine in C
+This project implements a simple state machine in C, where each state is represented as a node connected to other states. You can traverse, modify, and manage the states using commands through an interactive console.
+
+Features:
+Traverse Between States: Move from one state to another using numeric commands.
+Modify State Transitions: Dynamically change the "before" and "next" links between states.
+Garbage Collection of States: Identify and manage unused or "garbage" states.
+Delete States: Remove specific states or multiple states at once.
